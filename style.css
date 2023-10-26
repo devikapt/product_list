@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+
+
+.carousel-item img{
+    height: 400px;
+}
+.card img{
+    height: 300px;
+}
